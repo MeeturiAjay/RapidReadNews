@@ -57,5 +57,5 @@ RapidReadNews is a Flutter-based news application that fetches real-time news us
 For any queries or contributions, feel free to reach out!
 
 📧 Email: meeturiajaykumar.23@gmail.com  
-🔗 GitHub: ([GitHub](https://github.com/MeeturiAjay))
+🔗 GitHub: [GitHub](https://github.com/MeeturiAjay)
 
