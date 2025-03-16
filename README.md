@@ -35,7 +35,7 @@ RapidReadNews is a Flutter-based news application that fetches real-time news us
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/RapidReadNews.git
+   git clone https://github.com/MeeturiAjay/RapidReadNews.git
    ```
 2. Navigate to the project directory:
    ```sh
