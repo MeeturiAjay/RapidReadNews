@@ -34,11 +34,17 @@ RapidReadNews is a Flutter-based news application that fetches real-time news us
    flutter run
    ```
 
-## Screenshots
+## Home Page
 
 [![HomePage](RapidReadNews/blob/master/assets/Screenshots/Screenshot_20250316-164514.jpg)](https://raw.githubusercontent.com/MeeturiAjay/RapidReadNews/refs/heads/master/assets/Screenshots/Screenshot_20250316-164559.jpg)
 
+## Browser Access
 
+[![Browser](RapidReadNews/refs/heads/master/assets/Screenshots/Screenshot_20250316-164524.jpg)](https://raw.githubusercontent.com/MeeturiAjay/RapidReadNews/refs/heads/master/assets/Screenshots/Screenshot_20250316-164524.jpg)
+
+## Scrollable
+
+[![Scrollable View](RapidReadNews/refs/heads/master/assets/Screenshots/Screenshot_20250316-164559.jpg)](https://raw.githubusercontent.com/MeeturiAjay/RapidReadNews/refs/heads/master/assets/Screenshots/Screenshot_20250316-164559.jpg)
 
 
 ## Contact
